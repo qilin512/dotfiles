@@ -1,1 +1,1 @@
-
+Followed the instructions from Josean Martinez. This is his [Youtube channel](https://www.youtube.com/@joseanmartinez), the [video](https://www.youtube.com/watch?v=vdn_pKJUda8) and his [dotfiles repo](https://github.com/josean-dev/dev-environment-files).
