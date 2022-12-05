@@ -1,0 +1,17 @@
+let mapleader=" "
+
+inoremap jj <ESC>
+
+""" move one line up and down when word wrapped
+nnoremap j gj
+nnoremap k gk
+vnoremap j gj
+vnoremap k gk
+nnoremap <Down> gj
+nnoremap <Up>   gk
+vnoremap <Down> gj
+vnoremap <Up>   gk
+
+""" delete single character without copying into register
+nnoremap x "_x
+vnoremap x "_x
